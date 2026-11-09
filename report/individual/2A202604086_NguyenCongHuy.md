@@ -93,7 +93,7 @@ HIỆN TẠI - 260':
 | Trường | Nội dung |
 |---|---|
 | Job Story | Khi tôi quay lại sử dụng một công cụ đã một thời gian không sử dụng, để hoàn thành bài tập trên lớp|
-| Actor | |
+| Actor |Bản thân|
 | Thời điểm / bối cảnh | Hoàn thành bài tập code C++ của trường|
 | Quy trình hiện tại (3–7 bước) | |
 | Bottleneck (bước nào, mất bao nhiêu phút) | 1. Tìm hiểu bài tập C++ -> 2. Code bằng C++ -> 3. Lưu bài -> 4. Submit|
@@ -127,16 +127,16 @@ HIỆN TẠI - 50':
 
 | Hoạt động | Tôi đã làm gì? | Kết quả / ảnh hưởng tới bài nhóm |
 |---|---|---|
-| Pitch Problem Card | | |
-| Phản biện bài của bạn khác | Câu hỏi tôi đã đặt: | |
-| Nhận phản biện | Câu hỏi tôi nhận được: | Tôi đã sửa gì: |
-| Gom cluster / cây OST | | |
-| Chọn candidate problem | | |
-| Kiểm chứng / research | | |
-| Quy trình nhóm | | |
-| Problem Statement | | |
-| Mức can thiệp AI | | |
-| Quyết định | | |
+| Pitch Problem Card |Trình bày Problem Card của mình, giải thích bối cảnh, bottleneck và giả thuyết sử dụng AI.|Nhận được góp ý giúp phát hiện điểm chưa rõ và cải thiện Problem Card.|
+| Phản biện bài của bạn khác | Câu hỏi tôi đã đặt: Làm thế nào để xác định khoản chi tiêu nào thực sự cần cắt giảm, thay vì chỉ dựa vào số tiền đã chi nhiều nhất trong tháng?|Giúp bạn trình bày xem xét sâu hơn về tiêu chí lựa chọn khoản chi cần cắt giảm.|
+| Nhận phản biện | Câu hỏi tôi nhận được:Làm thế nào để đảm bảo AI giải thích kiến thức Bayesian Network và NLP chính xác, đồng thời không khiến bạn phụ thuộc vào AI?| Tôi đã sửa gì:Tôi làm rõ cách kiểm chứng kiến thức bằng cách đối chiếu với tài liệu học thuật, thực hành code và tự giải thích lại nguyên lý. Đồng thời, bổ sung tiêu chí đánh giá mức độ tiếp thu kiến thức bên cạnh thời gian tìm hiểu.|
+| Gom cluster / cây OST |Tham gia phân nhóm các Problem Card có điểm chung về nhu cầu, khó khăn và mục tiêu; xác định mối liên hệ giữa các vấn đề để xây dựng cây OST.|Giúp nhóm nhận diện các vấn đề chung và mối liên hệ giữa chúng.|
+| Chọn candidate problem |Tham gia thảo luận, so sánh và lựa chọn vấn đề tiềm năng.|Nhóm xác định được vấn đề ưu tiên để tiếp tục nghiên cứu.|
+| Kiểm chứng / research |Tìm kiếm thông tin, khảo sát hoặc kiểm tra giả định về vấn đề.|Có thêm bằng chứng để đánh giá vấn đề có thực sự tồn tại và đáng giải quyết hay không.|
+| Quy trình nhóm |Tham gia xây dựng các bước thực hiện quy trình giải quyết vấn đề.|Giúp nhóm xác định các bước và công đoạn cần cải thiện.|
+| Problem Statement |Tham gia xây dựng và chỉnh sửa câu mô tả vấn đề của nhóm.|Problem Statement rõ ràng hơn về đối tượng, nhu cầu và vấn đề cần giải quyết.|
+| Mức can thiệp AI |Đề xuất công đoạn nên sử dụng AI và công đoạn cần con người kiểm soát.|Xác định vai trò phù hợp của AI trong quy trình.|
+| Quyết định |Tham gia thảo luận và thống nhất phương án cuối cùng.|Nhóm thống nhất Problem Statement và hướng giải quyết.|
 
 ---
 
@@ -159,17 +159,31 @@ Trả lời bằng trải nghiệm thật của bạn, tối thiểu 200 từ ch
 
 **6.1. Tôi học được gì khi nghe top 3 problems của các bạn khác?**
 
+Khi nghe các bạn trình bày top 3 problems, tôi nhận ra mỗi người đều có những khó khăn và nhu cầu khác nhau. Một vấn đề tưởng chừng đơn giản nhưng có thể xuất phát từ nhiều nguyên nhân. Tôi học được cách xác định bottleneck, phân tích nguyên nhân và đặt ra tiêu chí đánh giá hiệu quả. Qua đó, tôi hiểu rằng cần tập trung tìm hiểu vấn đề trước khi nghĩ đến giải pháp.
+
 **6.2. Nhóm có lúc nào bị "solution-first" (nghĩ giải pháp trước khi hiểu vấn đề) không? Lúc đó nhóm nhận ra và xử lý thế nào?**
+
+Trong quá trình thảo luận, nhóm đôi lúc tập trung vào việc tìm kiếm giải pháp sử dụng AI trước khi xác định rõ vấn đề cần giải quyết. Điều này có thể khiến nhóm bỏ qua nguyên nhân thực sự của vấn đề. Sau đó, nhóm nhận ra cần quay lại phân tích đối tượng, nhu cầu và những khó khăn hiện tại. Nhóm đã tập trung làm rõ Problem Statement trước khi lựa chọn giải pháp phù hợp.
 
 **6.3. Tôi có đổi ý sau khi bị phản biện không? Kể một lần cụ thể.**
 
+Có. Trong Problem Card của mình, tôi đề xuất sử dụng AI để giải thích kiến thức Bayesian Network và NLP nhằm giảm thời gian tìm hiểu lý thuyết. Tuy nhiên, sau khi nhận được câu hỏi phản biện về việc làm thế nào đảm bảo AI cung cấp kiến thức chính xác và không khiến người học phụ thuộc, tôi nhận ra giả thuyết ban đầu còn thiếu bước kiểm chứng. Vì vậy, tôi bổ sung việc đối chiếu với tài liệu học thuật, thực hành code và tự đánh giá mức độ hiểu kiến thức.
+
 **6.4. Kết quả kiểm chứng (phỏng vấn/survey/research) có làm tôi bất ngờ không? Điều gì?**
+
+Qua quá trình tìm kiếm thông tin và nghiên cứu vấn đề, tôi nhận ra rằng việc đưa ra giả thuyết ban đầu chưa đủ để khẳng định vấn đề thực sự tồn tại. Cần có thông tin và bằng chứng để kiểm chứng những nhận định đó. Điều này giúp tôi hiểu rằng kết quả nghiên cứu có thể khác với suy nghĩ ban đầu và nhóm cần sẵn sàng điều chỉnh hướng tiếp cận dựa trên bằng chứng thực tế.
 
 **6.5. Điều khó nhất khi viết Problem Statement là gì?**
 
+Điều khó nhất đối với tôi là xác định chính xác vấn đề cốt lõi và diễn đạt nó một cách ngắn gọn, rõ ràng. Ban đầu, tôi thường tập trung vào biểu hiện của vấn đề hoặc nghĩ đến giải pháp thay vì tìm hiểu nguyên nhân. Ngoài ra, việc xác định đúng đối tượng, nhu cầu và phạm vi vấn đề cũng cần được cân nhắc kỹ. Qua hoạt động này, tôi hiểu rằng một Problem Statement tốt cần mô tả đúng vấn đề, không nên đưa giải pháp vào quá sớm.
+
 **6.6. Nếu làm lại, tôi sẽ đổi gì? Tôi sẽ phản biện nhóm mạnh hơn ở điểm nào?**
 
+Nếu được thực hiện lại, tôi sẽ chủ động chuẩn bị nhiều câu hỏi phản biện hơn và tìm hiểu kỹ vấn đề trước khi trình bày. Khi thảo luận, tôi sẽ tập trung đặt câu hỏi về nguyên nhân, tính cấp thiết và bằng chứng chứng minh vấn đề tồn tại. Đặc biệt, tôi muốn phản biện sâu hơn về success metric, tính khả thi của giải pháp và mức độ cần thiết khi sử dụng AI. Điều này sẽ giúp nhóm tránh lựa chọn giải pháp chỉ vì AI đang phổ biến mà chưa thực sự phù hợp với nhu cầu.
+
 **6.7. Hiểu bài:** giải thích bằng 5–8 câu, không nhìn tài liệu, chuỗi *problem → quy trình → metric → boundary → mức can thiệp AI → quyết định* của bài nhóm mình.
+
+Theo tôi, đầu tiên cần xác định Problem để biết nhóm đang muốn giải quyết vấn đề gì. Tiếp theo, phân tích quy trình hiện tại để tìm ra bottleneck gây khó khăn cho người dùng. Từ đó, nhóm xây dựng Metric để đo lường hiệu quả trước và sau khi giải quyết vấn đề. Boundary giúp xác định phạm vi và giới hạn của vấn đề cần giải quyết. Sau đó, nhóm xác định mức độ can thiệp của AI, công đoạn nào AI hỗ trợ và công đoạn nào cần con người kiểm soát. Cuối cùng, dựa trên kết quả nghiên cứu, kiểm chứng và thảo luận, nhóm đưa ra quyết định về Problem Statement và hướng giải quyết phù hợp.
 
 ---
 

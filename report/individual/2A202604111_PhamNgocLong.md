@@ -1,4 +1,4 @@
-# Báo cáo cá nhân — MSSV_HoTen
+# Báo cáo cá nhân — 2A202604111_PhamNgocLong
 
 > Đổi tên file theo quy tắc `MSSV_HoTen.md`, ví dụ `20241234_NguyenVanAn.md` (MSSV trước, dấu `_`, họ tên viết liền không dấu). Sửa cả dòng tiêu đề phía trên cho khớp.
 > Template chi tiết và prompt mẫu cho từng mục: [docs/01-worksheet.md](../../docs/01-worksheet.md).
@@ -21,17 +21,17 @@ Lăng kính: **Lặp lại** · **Tốn thời gian** · **Cần đọc, tổng 
 | # | Lăng kính | Job Story: Khi… tôi muốn… để… | Ai chịu ảnh hưởng? | Dấu hiệu thật (thời gian, tần suất, số người, bằng chứng) |
 |---:|---|---|---|---|
 | 1 | Lặp lại | Hàng ngày tôi cần phải viết báo cáo việc đã làm trong ngày, nguồn thông tin là từ nhiều repository Git khác nhau | Tôi, và các bạn nhân viên cùng team | Việc cần làm hàng ngày bắt đầu từ lúc tan làm (17h), thường mất khoảng 15-20 phút do phải tra lại lịch sử commit. Bằng chứng là thời gian về thực tế kể từ lúc tan làm (checkout) |
-| 2 | Cần đọc, tổng hợp nhiều tông tin | Hàng ngày tôi cần phải viết daily standup, báo cáo những gì mình đã làm/đã học được, thường là các slide bài học, commit trên repository, mục tiêu tiếp theo và các khó khăn đang gặp | Tôi và các bạn sinh viên cùng khoá AI in action | Hàng ngày mỗi buổi sáng trước khi đi học, thường mất 10-30 phút tuỳ theo việc đã làm ngày hôm trước. Bằng chứng là thời gian nộp bài hàng ngày của tôi, biết rằng tôi bắt đầu viết hàng ngày lúc 6h30 sáng |
+| 2 | Cần đọc, tổng hợp nhiều tông tin | Hàng ngày tôi cần phải viết daily standup, báo cáo những gì mình đã làm/đã học được, thường là các slide bài học, commit trên repository, mục tiêu tiếp theo và các khó khăn đang gặp | Tôi và các bạn sinh viên cùng khoá AI in action | Hàng ngày mỗi buổi sáng trước khi đi học, thường mất khoảng 47 phút (tra commit 20', mở lại slide 10', nhớ lại khó khăn 10', viết 5', nộp 2'). Bằng chứng là thời gian nộp bài hàng ngày của tôi, biết rằng tôi bắt đầu viết hàng ngày lúc 6h30 sáng |
 | 3 | Tốn thời gian | Khi nhận hóa đơn hoặc chứng từ chi tiêu (công tác phí, chi tiêu chung của nhóm), tôi muốn ghi lại và chia tiền nhanh, để cuối tháng không phải ngồi đối chiếu lại từng khoản. | Tôi và các thành viên trong gia đình | ~45–60 phút đối chiếu mỗi cuối tháng; ~20–30 khoản/tháng; bằng chứng: ảnh hóa đơn trong điện thoại, tin nhắn đòi tiền |
 | 4 | Pain từ người khác | Khi bố mẹ hoặc người thân gặp lỗi điện thoại hay ứng dụng ngân hàng, tôi muốn hướng dẫn họ tự xử lý từ xa, để không phải gọi điện hoặc về tận nhà mỗi lần. | Bố mẹ/người thân lớn tuổi, tôi | ~2–3 cuộc gọi hỗ trợ/tuần, mỗi cuộc 15–20 phút; lỗi lặp lại (quên mật khẩu, cập nhật app); bằng chứng: lịch sử cuộc gọi |
-| 5 | Lặp lại | Khi nộp bài lên LMS hoặc GitHub, tôi muốn tự kiểm tra bài đã đủ mục theo checklist chưa (tên file, các mục bắt buộc, link), để không bị trừ điểm vì lỗi hình thức. | Tôi, học viên trong lớp, coach phải chấm lại hoặc nhắc sửa | ~10–15 phút soát mỗi lần nộp; 2–3 lần/tuần; số lần bị nhắc sửa tên file hoặc thiếu mục |
+| 5 | Lặp lại | Khi nộp bài lên LMS hoặc GitHub, tôi muốn tự kiểm tra bài đã đủ mục theo checklist chưa (tên file, các mục bắt buộc, link), để không bị trừ điểm vì lỗi hình thức. | Tôi, học viên trong lớp, coach phải chấm lại hoặc nhắc sửa | ~20 phút đối chiếu yêu cầu mỗi lần nộp; 5 lần/tuần (mỗi ngày 1 buổi lab); đã bị nhắc sửa lỗi hình thức 1 lần |
 | 6 | | | | |
 | 7 | | | | |
 | 8 | | | | |
 
 **Nếu có dùng AI để gợi ý thêm:** ý nào AI gợi ý mà bạn giữ lại, ý nào bỏ và vì sao.
 
-- Khi nhận hóa đơn hoặc chứng từ chi tiêu (công tác phí, chi tiêu chung của nhóm), tôi muốn ghi lại và chia tiền nhanh, để cuối tháng không phải ngồi đối chiếu lại từng khoản. (AI gợi ý, giữ do đúng với hoàn cảnh thực tế) 
+- Khi nhận hóa đơn hoặc chứng từ chi tiêu (công tác phí, chi tiêu chung của nhóm), tôi muốn ghi lại và chia tiền nhanh, để cuối tháng không phải ngồi đối chiếu lại từng khoản. (AI gợi ý, giữ lại vì thấy hợp lý; sau khi được phản biện ở CP2, tôi nhận ra mình chưa từng thực sự làm quy trình này nên số liệu và quy trình chỉ là ước lượng, chưa có bằng chứng hành vi)
 - Khi bố mẹ hoặc người thân gặp lỗi điện thoại hay ứng dụng ngân hàng, tôi muốn hướng dẫn họ tự xử lý từ xa, để không phải gọi điện hoặc về tận nhà mỗi lần. (AI gợi ý, giữ vì đúng với hiện trạng)
 - Khi nộp bài lên LMS hoặc GitHub, tôi muốn tự kiểm tra bài đã đủ mục theo checklist chưa (tên file, các mục bắt buộc, link), để không bị trừ điểm vì lỗi hình thức. (AI gợi ý, giữ lại vì đúng với nhu cầu của tôi)
 - Khi họp xong, tôi muốn có ngay danh sách việc cần làm kèm người phụ trách và hạn, để không phải tự viết lại biên bản và đi nhắc từng người. (AI gợi ý, bỏ vì chưa có trải nghiệm thực tế)
@@ -93,7 +93,7 @@ HIỆN TẠI - 120 phút
 Quy trình nháp hiện tại:
 
 ```text
-HIỆN TẠI - 47 phút/lần
+HIỆN TẠI - 52 phút/lần
 [1. Mở lại các file yêu cầu: 5']
 [2. Đối chiếu từng mục với yêu cầu: 20'] ← BOTTLENECK
 [3. Kiểm tra tên file, link, tài khoản commit: 10']
@@ -129,9 +129,9 @@ HIỆN TẠI - 47 phút/ngày
 
 ### Card muốn pitch nhất
 
-- Card số: 3
-- Vì sao: Là một vân đề phổ biến giữa các bạn học viên, đang diễn ra hàng ngày
-- Câu hỏi muốn nhóm phản biện: "Các bạn có mất 10–30 phút mỗi sáng viết standup như mình không? Việc nào trong quá trình viết là tốn thời gian nhất với các bạn?" 
+- Card số: 2
+- Vì sao: Vấn đề lặp lại mỗi ngày có buổi lab (5 lần/tuần), bottleneck đo được (20 phút đối chiếu yêu cầu/lần) và gắn trực tiếp với bối cảnh học viên trong lớp
+- Câu hỏi muốn nhóm phản biện: "Các bạn có gặp vấn đề tương tự như mình mỗi khi nộp bài không?"
 
 ### AI đã phản biện card thế nào
 
@@ -146,16 +146,16 @@ HIỆN TẠI - 47 phút/ngày
 
 | Hoạt động | Tôi đã làm gì? | Kết quả / ảnh hưởng tới bài nhóm |
 |---|---|---|
-| Pitch Problem Card | | |
-| Phản biện bài của bạn khác | Câu hỏi tôi đã đặt: | |
-| Nhận phản biện | Câu hỏi tôi nhận được: | Tôi đã sửa gì: |
-| Gom cluster / cây OST | | |
-| Chọn candidate problem | | |
-| Kiểm chứng / research | | |
-| Quy trình nhóm | | |
-| Problem Statement | | |
-| Mức can thiệp AI | | |
-| Quyết định | | |
+| Pitch Problem Card | Pitch card #2: soát bài trước khi nộp lab lên GitHub/LMS | Card được đưa vào shortlist của nhóm |
+| Phản biện bài của bạn khác | Câu hỏi tôi đã đặt (cho Nguyễn Văn Minh, card tự học tài liệu kỹ thuật nặng Toán): Các chatbot hiện nay đã đủ để tóm tắt các cuốn sách, tài liệu rồi, tại sao vấn đề vẫn hiện hữu? | Không ảnh hưởng đáng kể tới thứ tự ưu tiên của nhóm |
+| Nhận phản biện | Câu hỏi tôi nhận được (từ Triệu Tuấn Minh, nhóm trưởng): Các yêu cầu nộp bài lab không quá khó, tôi cảm thấy vấn đề này không áp dụng cho tôi | Tôi đã sửa gì: Giảm scope, chi tiết hoá actor. Đây là tín hiệu phản bác về Value: không phải học viên nào cũng gặp vấn đề này |
+| Gom cluster / cây OST | Không tham gia | |
+| Chọn candidate problem | Không có buổi chọn chung; nhóm trưởng tự tổng hợp từ các báo cáo cá nhân và chọn | Card #2 của tôi được chọn làm candidate problem |
+| Kiểm chứng / research | Không tham gia; nhóm chưa phỏng vấn người ngoài nhóm | Phần kiểm chứng của nhóm còn thiếu dữ liệu từ người thật |
+| Quy trình nhóm | Không tham gia vẽ; quy trình nhóm dùng lại quy trình nháp trong card #2 của tôi | |
+| Problem Statement | Không trực tiếp viết; Problem Statement v0/v1 dựa phần lớn trên card #2 của tôi (actor, quy trình, bottleneck, metric) | |
+| Mức can thiệp AI | Đưa ví dụ đơn giản về 4 mức No AI / Rule / Workflow / Agent cho nhóm. Sau đó tôi nhận ra mình đã hiểu sai Rule (tôi nói là "prompt AI một lần", nhưng Rule là quy tắc cố định, không dùng AI) và Workflow (các bước định sẵn, AI chỉ làm một phần, không phải "dùng nhiều AI") | Nhóm chọn No AI làm baseline, Rule chỉ thử sau. Tôi đã tự sửa cách hiểu để giải thích đúng lựa chọn này |
+| Quyết định | Đồng ý với quyết định của nhóm: Not Yet, mức chọn là Rule (chỉ thử sau checklist No AI) | Nhóm kết luận Not Yet vì chưa kiểm chứng với học viên ngoài nhóm, và chính nhóm trưởng không gặp vấn đề này |
 
 ---
 
@@ -164,11 +164,12 @@ HIỆN TẠI - 47 phút/ngày
 | Checkpoint | Tôi dùng AI để làm gì? | AI hữu ích ở đâu? | AI sai hoặc hời hợt ở đâu? | Tôi sửa gì bằng nhận định của mình? |
 |---|---|---|---|---|
 | CP1 Scan | Sau khi tự scan, nhờ AI gợi ý thêm 10 candidate problem theo 4 lăng kính | Mở rộng thêm ý ở các lăng kính tôi chưa nghĩ tới, viết đúng dạng Job Story | Số liệu ở cột "Dấu hiệu thật" là giả định, không phải trải nghiệm của tôi; có ý (quản lý chi tiêu) tôi chưa từng thực sự làm | Chỉ giữ ý đúng với hoàn cảnh của tôi, bỏ ý chưa có trải nghiệm thật (ghi lý do ở mục 2) |
-| CP2 Problem Card | Nhờ AI đóng vai "PM hoài nghi" phản biện card #1; nhờ AI dựng khung card #2, #3 từ dữ liệu CP1 của tôi | Chỉ ra actor quá rộng, bottleneck gộp nhiều việc, số liệu giữa các trường không khớp, phương án không dùng AI đã có sẵn (template Excel, script `git log`, checklist trong CHECKPOINTS) | Problem ở card #1 do AI gợi ý nên lúc đầu tôi viết quy trình theo tưởng tượng; AI không biết số phút thật của từng bước | Thu hẹp actor, tách bước, đổi cảm nhận card #1 sang No-AI; tự đo số phút từng bước cho card #2, #3 |
+| CP2 Problem Card | Nhờ AI đóng vai "PM hoài nghi" phản biện card #1; nhờ AI dựng khung card #2, #3 từ dữ liệu CP1 của tôi | Chỉ ra actor quá rộng, bottleneck gộp nhiều việc, số liệu giữa các trường không khớp, phương án không dùng AI đã có sẵn (template Excel, script `git log`, checklist trong CHECKPOINTS) | Problem ở card #1 do AI gợi ý nên lúc đầu tôi viết quy trình theo tưởng tượng; AI không biết số phút thật của từng bước nên đã ước lượng 1 khoảng | Thu hẹp actor, tách bước, đổi cảm nhận card #1 sang No-AI; tôi đã phải check lại thời gian ước lượng của AI và sửa lại để đảm bảo thông tin không bị rời rạc |
 | CP4 Research | | | | |
 | CP5 Quy trình | | | | |
 | CP5–6 Problem Statement | | | | |
 | CP6 Mức can thiệp / quyết định | | | | |
+| Báo cáo | Nhờ AI chỉ ra các thông tin mà báo cáo nhóm bị thiếu, các thông tin chưa khớp và điền thiếu trong bài báo cáo của tôi, của nhóm và file TEAM.md, từ đó nhờ AI sửa lại chúng | AI đã tìm các chỗ lệch nhanh chóng, và đặt câu hỏi rõ với tôi. | Số liệu giả định do AI gợi ý đã bị mang vào báo cáo. | Tôi đã đính chính lại các thông tin liên quan đến phần làm việc của nhóm và xem lại những phần nhờ AI sửa. |
 
 ---
 
@@ -177,21 +178,33 @@ HIỆN TẠI - 47 phút/ngày
 Trả lời bằng trải nghiệm thật của bạn, tối thiểu 200 từ cho các câu 6.1–6.6 (không tính 6.7, câu này được chấm riêng ở tiêu chí C5). **Không dùng AI để viết thay.**
 
 **6.1. Tôi học được gì khi nghe top 3 problems của các bạn khác?**
+- Tôi thấy mọi người có các cách nhìn nhận khác nhau về những vấn đề của bản thân, một số trong đó đang chưa xác định rõ được vấn đề thực sự mà chỉ thấy các hiện trạng.
 
 **6.2. Nhóm có lúc nào bị "solution-first" (nghĩ giải pháp trước khi hiểu vấn đề) không? Lúc đó nhóm nhận ra và xử lý thế nào?**
+- Nhóm đã từng gặp trường hợp solution-first. Có thể kể đến đề xuất tạo chatbot kiểm tra toàn bộ bài. Đó là hướng đi từ giải pháp ra vấn đề và chưa chứng minh được tính cần thiết của AI.
 
 **6.3. Tôi có đổi ý sau khi bị phản biện không? Kể một lần cụ thể.**
+- Tôi đã đổi problem để pitch sau khi được AI phản biện. Cách nhìn nhận vấn đề của tôi chưa hoàn thiện nên tôi sẵn sàng sửa sai. Nhóm trưởng cũng đã phủ nhận vấn đề do tôi đưa ra, tôi chưa đổi ý ngay vì tôi cần nhiều bằng chứng hơn trong việc này.
 
 **6.4. Kết quả kiểm chứng (phỏng vấn/survey/research) có làm tôi bất ngờ không? Điều gì?**
+- Câu phản bác của nhóm trưởng đã làm tôi bất ngờ vì tôi đã nghĩ rằng vấn đề của mình rất phổ biến trong các học viên cùng khoá.
 
 **6.5. Điều khó nhất khi viết Problem Statement là gì?**
+- Theo tôi thấy điều khó nhất là việc xác định được đúng vấn đề cần giải quyết. Sẽ cần nhiều nguồn thông tin hơn để đánh giá một problem thật sự chứ không thể chỉ qua suy đoán hay phỏng vấn đơn thuần.
 
 **6.6. Nếu làm lại, tôi sẽ đổi gì? Tôi sẽ phản biện nhóm mạnh hơn ở điểm nào?**
+- Nếu làm lại, tôi sẽ chọn các problem khác, sau khi chọn lọc kĩ lưỡng hơn chứ không gấp gáp suy ra từ vấn đề cá nhân + AI gợi ý. Ngoài ra, một số chỗ nhờ AI viết tôi sẽ cần check lại kỹ lưỡng hơn. Tôi sẽ phản biện nhóm mạnh hơn về các vấn đề họ đề ra, mong muốn rằng họ cũng rút ra được góc nhìn đa chiều dành cho vấn đề giống như tôi.
 
 **6.7. Hiểu bài:** giải thích bằng 5–8 câu, không nhìn tài liệu, chuỗi *problem → quy trình → metric → boundary → mức can thiệp AI → quyết định* của bài nhóm mình.
+- Một số học viên khi nộp bài lab sẽ gặp khó khăn vì nộp sai hình thức so với đề bài yêu cầu. Quy trình hiện tại là 1. Mở các file tài liệu .md để xem yêu cầu; 2. Đối chiếu bài làm với các yêu cầu; 3. Kiểm tra lại tên file, link, hình thức repository; 4. Sửa lại và commit; 5. Nộp bài lên LMS; và phần đối chiếu bài làm chính là bottleneck. Metric nên là giảm thời gian kiểm tra lại bài làm từ 20 phút xuống dưới khoảng 5 phút, cho ít nhất 3-5 học viên đang gặp vấn đề. Giới hạn boundary là không được nộp bài hộ người dùng hay khẳng định chắc chắn kết quả kiểm tra, vì kết quả kiểm tra chỉ mang tính chất bổ trợ. Mức can thiệp AI sử dụng 2 loại là No-AI do có thể thay đổi cách tổ chức checklist hình thức và rule để kiểm tra các thông tin như tên file, link,... Quyết định sau cùng hiện là not-yet do chưa thể liên kết với những người gặp vấn đề liên quan.
 
 ---
 
 ## 7. Tài liệu tham khảo
 
--
+- [README.md](../../README.md): đề bài, thuật ngữ và định nghĩa 4 mức can thiệp No AI / Rule / Workflow / Agent
+- [CHECKPOINTS.md](../../CHECKPOINTS.md): yêu cầu và checklist "Tự kiểm tra" của từng checkpoint
+- [RULES.md](../../RULES.md): quy định dùng AI và kiểm chứng với người thật
+- [docs/01-worksheet.md](../../docs/01-worksheet.md): template Problem Card, Job Story và prompt "PM hoài nghi"
+- [Báo cáo nhóm](../team/group_report.md) và [TEAM.md](../../TEAM.md)
+- Claude (Anthropic): dùng để gợi ý thêm candidate problem ở CP1, phản biện Problem Card và rà soát độ nhất quán giữa báo cáo cá nhân và báo cáo nhóm (chi tiết ở mục 5)

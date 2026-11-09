@@ -54,3 +54,25 @@ Mỗi thành viên thêm một mục theo mẫu dưới đây, tiêu đề là `
 **Điều mình học được từ phần nhóm:**
 
 -
+
+### PhamNgocLong-2A202604111
+
+**Phần việc phụ trách:**
+
+- Đề xuất candidate problem (card #2: soát bài trước khi nộp lab), pitch với nhóm; phản biện card của thành viên khác.
+
+**Đóng góp cụ thể** (mình đã làm gì, ra sản phẩm gì):
+
+- Viết Problem Card #2 (Job Story, actor, quy trình 5 bước, bottleneck 20 phút, metric, phương án không dùng AI). Card này là nền cho candidate problem, quy trình hiện tại và Problem Statement v0/v1 của nhóm.
+- Pitch card #2; phản biện card tự học tài liệu nặng Toán của Nguyễn Văn Minh.
+- Bổ sung vào `group_report.md`: câu hỏi phản biện kèm người hỏi (mục 2.1), ghi nhận bất đồng (mục 2.4), tín hiệu phản bác (mục 3.2, 8.1), sửa số liệu baseline 52 phút.
+- Không tham gia gom cluster/OST, kiểm chứng và vẽ quy trình nhóm.
+
+**Bằng chứng** (phần nào trong `group_report.md`, file nào trong `report/assets/`, commit nào):
+
+- `report/individual/2A202604111_PhamNgocLong.md` mục 3 (Problem Card #2); `group_report.md` mục 2.1, 2.4, 3.2, 4.1, 8.1. Commit: `5d72cc7`
+
+**Điều mình học được từ phần nhóm:**
+
+- Khi nhóm trưởng phản biện rằng việc nộp bài không khó và vấn đề này không áp dụng với bạn ấy, mình nhận ra người dùng mình chọn không nhất thiết gặp vấn đề giống như mình tưởng tượng.
+- Phân tích problem cùng nhóm giúp mình phát hiện những giả định mà khi làm một mình mình không tự thấy được.
