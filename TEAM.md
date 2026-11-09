@@ -37,23 +37,32 @@ Gợi ý vai trò (một người có thể giữ nhiều vai): điều phối t
 
 Mỗi thành viên thêm một mục theo mẫu dưới đây, tiêu đề là `HoVaTen-MSSV`.
 
-### HoVaTen-MSSV
+### NguyenVanMinh-2A202604117
 
 **Phần việc phụ trách:**
 
--
+- Báo cáo cá nhân CP1-CP2 (scan 5 problem, 3 Problem Card) và CP7
+- Pitch 3 card tại CP3 và nhận phản biện có ghi lại
+- Phụ trách kiểm chứng (survey gửi lớp) và research nguồn ngoài cho CP4
 
 **Đóng góp cụ thể** (mình đã làm gì, ra sản phẩm gì):
 
--
+- Scan 5 problem kèm dấu hiệu thật (tra lại Toán nền khi tự học 45-90+ phút/chương; dọn dây Simulink 60-90 phút/tuần; chờ Xanh SM; chờ VinBus; dọn figure journal 2-3 giờ/lần)
+- Pitch 3 card; card "tra lại Toán nền" được chấm 25/30, bị loại ở cột "Nhóm hiểu domain" — lý do được ghi trong mục 2.4 group_report
+- Research 2 nguồn ngoài cho giải pháp Rule: markdownlint-cli và lychee (đã tự mở từng link)
+- Gửi bộ câu khảo sát kiểm chứng qua kênh lớp; kết quả ghi trong mục 3.2 group_report
 
 **Bằng chứng** (phần nào trong `group_report.md`, file nào trong `report/assets/`, commit nào):
 
--
+- `report/individual/2A202604117_NguyenVanMinh.md` (commit riêng bằng tài khoản vm140205)
+- Mục 2.1 (dòng 4-6) và bảng chấm điểm 2.4 trong `group_report.md`
 
 **Điều mình học được từ phần nhóm:**
 
--
+- Mình học được rằng nên chủ động hoàn thành phần mình sớm và ghi rõ bằng chứng (commit, survey, link đã kiểm) — vừa giúp nhóm dễ tổng hợp, vừa tự bảo vệ phần điểm nhóm.
+- Candidate có bằng chứng cá nhân tốt đến đâu cũng phải kiểm chứng được với người ngoài nhóm mới đứng vững — card Toán của mình bị loại đúng ở chỗ này.
+
+### HoVaTen-MSSV
 
 ### PhamNgocLong-2A202604111
 

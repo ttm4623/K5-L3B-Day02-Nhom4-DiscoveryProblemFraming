@@ -83,20 +83,20 @@ Những ý đã gạch bỏ vì là solution đội lốt opportunity:
 
 | # | Giả định | Loại (Value / Usability / Feasibility / Viability) | Quan trọng (1–5) | Đã có bằng chứng (1–5) | Kiểm chứng trước? |
 |---:|---|---|---:|---:|---|
-| 1 | Học viên mất đáng kể thời gian vì phải đối chiếu yêu cầu ở nhiều file trước khi nộp | Value | 5 | 2 | Có |
-| 2 | Lỗi hình thức xảy ra đủ thường xuyên để checklist dùng lại có giá trị | Value | 4 | 2 | Có |
+| 1 | Học viên mất đáng kể thời gian vì phải đối chiếu yêu cầu ở nhiều file trước khi nộp | Value | 5 | 4 | Có |
+| 2 | Lỗi hình thức xảy ra đủ thường xuyên để checklist dùng lại có giá trị | Value | 4 | 3 | Có |
 | 3 | Một checklist gộp và các Rule đơn giản có thể giảm bước đối chiếu mà không làm tăng lỗi bị bỏ sót | Feasibility | 5 | 1 | Có |
-| 4 | Học viên hiểu được kết quả kiểm tra và biết tự sửa lỗi được báo | Usability | 3 | 1 | Có |
+| 4 | Học viên hiểu được kết quả kiểm tra và biết tự sửa lỗi được báo | Usability | 3 | 2 | Có |
 | 5 | Tiêu chí hình thức có thể diễn đạt đủ rõ để kiểm tự động; đánh giá nội dung cần người | Feasibility | 4 | 2 | Có |
 | 6 | Có thể thử giải pháp trong repo lớp mà không cần dữ liệu cá nhân hoặc quyền tích hợp LMS | Viability | 3 | 2 | Có |
 
 *Điểm bằng chứng thấp phản ánh chưa có dữ liệu tập thể, không phải kết luận rằng giả định sai.*
 
-Giả định nhóm kiểm chứng trong buổi này: Chưa có hoạt động hay kết quả kiểm chứng nhóm được ghi lại. Đề xuất ưu tiên kiểm chứng #1–#3 bằng quan sát thời gian và lỗi trên một số bài nộp thật.
+Giả định nhóm kiểm chứng trong buổi này: #1, #2, #4 — bằng survey gửi học viên ngoài nhóm ngày 09/11 (kết quả ở 3.2). Cập nhật điểm bằng chứng sau survey: #1: 2→4, #2: 2→3, #4: 1→2.
 
 ### 3.2. Kiểm chứng
 
-Cách đã dùng: Bốn báo cáo cá nhân có mô tả trải nghiệm và con số; chưa có ghi nhận phỏng vấn/survey/log tập thể cho candidate được chọn.
+Cách đã dùng: Bốn báo cáo cá nhân có mô tả trải nghiệm và con số; **survey gửi qua tin nhắn cho 3 học viên cùng lớp (ngoài nhóm) ngày 09/11**, hỏi về lần nộp bài gần nhất, thời gian soát, workaround, bước tốn thời gian nhất và mức sẵn sàng thử giải pháp. Người được hỏi ghi theo vai trò (SV-A/B/C), không ghi tên thật.
 
 Interview snapshot (chưa có phỏng vấn được ghi nhận):
 
@@ -115,10 +115,19 @@ Tổng hợp:
 |---|---:|---|---|
 | Báo cáo cá nhân Phạm Ngọc Long, candidate checklist | 1 người, tự báo cáo | Có workflow 5 bước, bottleneck 20 phút/lần, target và workaround Rule được nêu | N=1; tổng 52 phút/lần là tự báo cáo, chưa có bản ghi thời gian độc lập |
 | Ba báo cáo cá nhân còn lại | 3 người, không có dữ liệu checklist cùng candidate | Bối cảnh chung là bài tập/lab, có thể thuận tiện tuyển pilot trong lớp | Không xác nhận họ gặp cùng bottleneck hoặc muốn dùng checklist |
+| **Survey học viên ngoài nhóm (tin nhắn 09/11)** | **3 mẫu** | **3/3 mất 15–75 phút soát bài trước nộp; 2/3 tự làm workaround (checklist giấy dán màn hình, Google Sheet tick từng ô); 1/3 không biết SUBMISSION.md và RUBRIC.md tồn tại cho tới khi bị trừ lỗi; 2 sự cố thật: quên bấm Commit changes tưởng đã nộp, đặt tên repo sai mẫu mất gần nửa giờ** | **1/3 (người đã có Google Sheet tự kiểm) nghi ngờ giải pháp: "không biết có tốt hơn mình tự kiểm soát không" — giải pháp phải chứng minh tốt hơn workaround tự chế** |
+| Tự báo cáo của thành viên thứ hai (Nguyễn Văn Minh, không tính là kiểm chứng ngoài nhóm) | 1 người | Lần nộp Day01 mất ~30 phút soát, nộp sát giờ suýt trễ (repo push 17:05 sát deadline 06/11), chưa có workaround; bước tốn nhất là soát và chuẩn hóa tên file | Vẫn là self-report, không thay thế dữ liệu ngoài nhóm |
 | Phản biện trong nhóm khi pitch (không tính là phỏng vấn vì là thành viên nhóm) | 1 người (nhóm trưởng) | Không có | Cho rằng yêu cầu nộp bài không quá khó và bản thân không gặp vấn đề này |
 | Phỏng vấn/survey/log cho candidate này | 0 mẫu được ghi nhận | Chưa có | Chưa có dữ liệu để kết luận prevalence hoặc hiệu quả |
 
-**Nhóm đã sửa problem thế nào sau kiểm chứng:** Nhóm chưa phỏng vấn, khảo sát hoặc thử nghiệm nên chưa có cơ sở kết luận problem đã được xác nhận hay cần sửa. Qua rà soát card, nhóm đề xuất giới hạn phạm vi ở việc kiểm tra hình thức (tên file, heading bắt buộc, link/đường dẫn), không bao gồm đánh giá nội dung. Đây là giả thuyết cần kiểm chứng với học viên trước khi chốt.
+**Nhóm đã sửa problem thế nào sau kiểm chứng:**
+
+1. Pain được xác nhận 3/3 nhưng tách thành 3 mảnh: (a) không biết yêu cầu nằm ở đâu — giải bằng checklist gộp; (b) lỗi hình thức (tên repo sai mẫu, thiếu file, quên commit, repo Private) — giải bằng Rule/script, đúng 4 lỗi đã xảy ra thật; (c) sợ vi phạm luật nội dung — giữ cho người, khẳng định boundary "tiêu chí hình thức tự động được, đánh giá nội dung cần người".
+2. Actor làm rõ: đau nhất với học viên mới (SV mất gần nửa giờ tạo repo sai mẫu); người có kinh nghiệm thì pain nằm ở kiểm tra tuân thủ luật.
+3. Quyết định GIỮ Not Yet nhưng lý do đổi: problem đã được xác chứng (3/3); cái chưa kiểm chứng là giải pháp có tốt hơn workaround tự chế không (tín hiệu phản bác của SV-C). Pilot lab sau: đưa checklist + script cho 3-5 bạn, đo thời gian soát + số lỗi hình thức sót.
+4. Ngưỡng dừng pilot: nếu script không bắt được lỗi thật xảy ra, hoặc mọi người vẫn tự soát bằng cách cũ, thì quay về checklist giấy/Sheet.
+
+Câu nguyên văn đáng nhớ: SV-A: "quên bấm Commit changes, tưởng đã nộp xong"; SV-B: "nếu script tự động bắt được lỗi kiểu tên repo sai mẫu hoặc repo đang Private ngay khi mình tạo xong thì đỡ"; SV-C: "có thể thử, nhưng không biết có tốt hơn mình tự kiểm soát không".
 
 ### 3.3. Research giải pháp đã có
 
@@ -127,8 +136,10 @@ Tổng hợp:
 | Yêu cầu/checklist hiện có của lớp | [CHECKPOINTS.md](../../CHECKPOINTS.md), [RUBRIC.md](../../RUBRIC.md), [SUBMISSION.md](../../SUBMISSION.md) | Cung cấp tiêu chí để học viên tự đối chiếu | Có sẵn, là nguồn chuẩn của yêu cầu | Tiêu chí nằm ở nhiều tài liệu; chưa đo được mức trùng lặp hoặc khó tìm | Trước hết lập danh mục yêu cầu và liên kết về nguồn chuẩn; không tạo bản sao dễ lỗi thời |
 | Checklist gộp do cá nhân đề xuất | [Problem Card #2 của Phạm Ngọc Long](../individual/2A202604111_PhamNgocLong.md) | Hỗ trợ bước đối chiếu trước khi sửa và nộp | No AI, nhanh dựng thử; người nộp tự kiểm soát | Chưa được tạo hoặc thử; có nguy cơ bỏ sót khi tiêu chí thay đổi | Prototype bằng checklist thủ công trước khi viết automation |
 | Static checks / Rule hoặc GitHub Action (ý tưởng, chưa được xây/test) | [Problem Card #2 của Phạm Ngọc Long](../individual/2A202604111_PhamNgocLong.md) | Kiểm tra tên file, heading, link có cấu trúc | Deterministic, dễ kiểm lại; có thể báo lỗi cụ thể | Không đánh giá được chất lượng lập luận/nội dung; link ngoài/LMS có thể không truy cập được | Chỉ tự động hóa tiêu chí rõ ràng; giữ bước đọc nội dung và submit cho con người |
+| markdownlint-cli (công cụ có sẵn, nguồn ngoài) | https://github.com/igorshubovych/markdownlint-cli | Kiểm tra tự động cấu trúc markdown: heading, thứ tự, quy tắc dạng; chạy được trong CI/GitHub Action | Chính là mức Rule cho phần hình thức; cấu hình được theo quy tắc riêng của lớp | Không hiểu yêu cầu riêng (file nào phải tồn tại, trường nào phải điền) — cần thêm config + checklist riêng | Phần "kiểm tra hình thức" khả thi bằng Rule có sẵn, không cần AI |
+| lychee (công cụ có sẵn, nguồn ngoài) | https://github.com/lycheeverse/lychee | Kiểm tra link chết trong markdown (rubric trừ link chết) | Nhanh, bảo trì tích cực, kiểm được cả link ngoài repo | Chỉ kiểm link, không kiểm cấu trúc hay nội dung yêu cầu | Ghép với markdownlint thành bộ kiểm hình thức 2 lớp |
 
-Research trên đây là rà soát tài liệu và ý tưởng có sẵn trong repo, chưa phải khảo sát thị trường hoặc đánh giá công cụ bên ngoài.
+Nguồn ngoài đã tự mở kiểm tra từng link trước khi ghi. Lưu ý: `gaurav-nelson/github-action-markdown-link-check` đã deprecated (04/2025) nên nhóm không chọn.
 
 ---
 
@@ -307,8 +318,9 @@ Không có đầu ra AI trong phương án hiện tại. Các tiêu chí dưới
 ## 9. Hạn chế và hướng tiếp theo
 
 - Báo cáo cá nhân chưa phải bằng chứng về đồng thuận CP3–CP6; cần nhóm xác nhận candidate và quyết định cuối.
-- Chưa có snapshot phỏng vấn, survey, log thử nghiệm hoặc research độc lập về giải pháp bên ngoài.
-- Các số liệu của candidate được chọn là tự báo cáo n=1 (52 phút/lần, 5 lần/tuần); một thành viên khác trong nhóm không gặp vấn đề này.
+- Survey hiện có n=3, hỏi qua tin nhắn, cùng một lớp — tín hiệu nhất quán nhưng mẫu còn mỏng; chưa đo baseline thống nhất (15–75 phút chênh lớn).
+- Chưa pilot giải pháp; tín hiệu phản bác (người đã có hệ thống tự kiểm bằng Google Sheet) cho thấy cần chứng minh giải pháp tốt hơn workaround hiện có, không chỉ "có ích".
+- Các số liệu baseline của candidate (52 phút/lần, 5 lần/tuần) vẫn là tự báo cáo n=1; một thành viên khác trong nhóm không gặp vấn đề này.
 - Các candidate khác cũng có vấn đề dữ liệu: một số workflow chưa điền đủ actor/quy trình; một số số liệu giữa card và sơ đồ nháp không khớp.
 - Bước tiếp theo: xác nhận nhóm chọn đề tài, phỏng vấn/quan sát học viên khác, đo baseline nhất quán, thử checklist No AI trước; chỉ triển khai Rule nếu pilot chứng minh có giá trị tăng thêm.
 

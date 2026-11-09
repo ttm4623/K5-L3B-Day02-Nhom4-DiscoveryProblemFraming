@@ -134,16 +134,16 @@ HIỆN TẠI — 2-3 giờ lãng phí/lần (1 lần/tháng)
 
 | Hoạt động | Tôi đã làm gì? | Kết quả / ảnh hưởng tới bài nhóm |
 |---|---|---|
-| Pitch Problem Card | *(điền sau buổi pitch nhóm)* | |
-| Phản biện bài của bạn khác | Câu hỏi tôi đã đặt: | |
-| Nhận phản biện | Câu hỏi tôi nhận được: | Tôi đã sửa gì: |
-| Gom cluster / cây OST | | |
-| Chọn candidate problem | | |
-| Kiểm chứng / research | *(ghi phần survey mình đi hỏi)* | |
-| Quy trình nhóm | | |
-| Problem Statement | | |
-| Mức can thiệp AI | | |
-| Quyết định | | |
+| Pitch Problem Card | Pitch 3 card: tra lại Toán nền khi tự học, dọn dây Simulink sau agent, dọn figure journal sau agent | Card "tra lại Toán nền" vào bảng chấm điểm 25/30, bị loại ở cột "Nhóm hiểu domain" — lý do ghi ở mục 2.4 group_report |
+| Phản biện bài của bạn khác | Câu hỏi tôi đã đặt: vì ngại giao tiếp trong buổi pitch, tôi hỏi được các câu kiểu survey cho 3 bạn ngoài nhóm: "Lần gần nhất bạn chuẩn bị nộp bài lab là khi nào, phải mở những file nào để đối chiếu?", "Mất bao lâu để soát bài đủ yêu cầu, từng bị trừ điểm hình thức chưa?", "Hiện bạn xử lý bằng cách nào?" | 3/3 trả lời; kết quả thành bảng kiểm chứng mục 3.2 group_report |
+| Nhận phản biện | Câu hỏi tôi nhận được: card Toán bị loại vì "domain hẹp, khó xác nhận nhóm có đủ người dùng thử" | Tôi đã sửa gì: chấp nhận lý do lúc đó vì chưa có dữ liệu; sau đó survey cho thấy pain tự học có thật ở lớp nhưng nhóm đã chốt candidate khác — ghi nhận ở mục 3.2 |
+| Gom cluster / cây OST | Nhóm trưởng tự tổng hợp; tôi góp 3 card vào bảng pitch | 12 candidate được ghi ở mục 2.1 group_report |
+| Chọn candidate problem | Đồng ý chọn "kiểm tra checklist trước khi nộp lab" vì vừa sức kiểm chứng trong lớp và mức Rule rõ | Quyết định Not Yet, mức Rule |
+| Kiểm chứng / research | Soạn bộ câu survey (Mom Test), gửi 3 học viên ngoài nhóm qua tin nhắn 09/11, nhận 3 phản hồi, ghi nguyên văn; research 2 nguồn ngoài (markdownlint-cli, lychee) và tự mở từng link | Dữ liệu cho mục 3.2 và 3.3 group_report; 1 tín hiệu phản bác (người có sẵn Google Sheet nghi ngờ giải pháp) |
+| Quy trình nhóm | Xác nhận quy trình trước/sau do nhóm trưởng và Long soạn | Mục 4 group_report |
+| Problem Statement | Xác nhận v0/v1 | Mục 5, 7 group_report |
+| Mức can thiệp AI | Đồng ý mức Rule + câu hỏi PAIR (augment: người tự kiểm, không tự nộp) | Mục 6 group_report |
+| Quyết định | Đồng ý Not Yet kèm pilot và ngưỡng dừng | Mục 8 group_report |
 
 ---
 
@@ -154,9 +154,9 @@ HIỆN TẠI — 2-3 giờ lãng phí/lần (1 lần/tháng)
 | CP1 Scan | Tự scan trước; sau đó dùng AI phản biện từng ý theo Mom Test; AI gợi ý thêm ý từ hồ sơ làm việc của tôi | Bắt được ý solution trá hình (teach-loop), bắt mâu thuẫn giữa 2 dòng scan | AI gộp "research" của tôi thành một khối mơ hồ | Tách thành 3-4 quy trình riêng: đọc paper, chạy thí nghiệm, tái hiện baseline, viết draft; tự chọn giữ/sửa dòng nào |
 | CP2 Problem Card | Dùng AI phản biện card (bảng ở mục 3) | Chỉ đúng chỗ bottleneck mơ hồ, metric chưa đo được | AI định viết lại card thay tôi — không dùng | Tự viết lại bằng lời mình, chỉ lấy dữ liệu |
 | CP4 Research | AI soạn bộ câu survey (tôi chọn/sửa câu), tra DeepTutor và app VinBus kèm link | Kiểm tra được VinBus app ĐÃ có tracking — cứu được 1 candidate yếu khỏi tốn công | Link phải tự mở lại kiểm tra theo luật | Dữ liệu survey từ người thật, ghi nguyên văn |
-| CP5 Quy trình | | | | |
-| CP5–6 Problem Statement | | | | |
-| CP6 Mức can thiệp / quyết định | | | | |
+| CP5 Quy trình | AI (trợ lý) rà soát trạng thái repo, chỉ ra các mục còn thiếu (kiểm chứng, research ngoài, TEAM.md) | Biết được thứ tự việc theo mức ăn điểm | AI không viết được quy trình thay nhóm — nội dung do nhóm trưởng và Long soạn | Mình tự đọc, xác nhận và bổ sung phần mình phụ trách |
+| CP5–6 Problem Statement | AI rà soát v0/v1 của nhóm theo 6 trường | Chỉ ra metric cần baseline đo được | Không viết lại thay nhóm (đúng luật) | Nhóm tự chốt nội dung |
+| CP6 Mức can thiệp / quyết định | AI đề xuất link nguồn ngoài cho bảng research | Tìm đúng 2 link sống (markdownlint-cli, lychee) | AI từng đề xuất link chết (marketplace 404) và 1 action đã deprecated — phải tự mở từng link kiểm | Mình tự mở lại từng link trước khi ghi vào bảng |
 
 ---
 
