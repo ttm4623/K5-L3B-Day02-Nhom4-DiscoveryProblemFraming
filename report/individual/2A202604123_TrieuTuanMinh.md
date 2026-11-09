@@ -117,15 +117,15 @@ Quy trình nháp hiện tại:
 
 ### Card muốn pitch nhất
 
-- Card số:  
-- Vì sao:
-- Câu hỏi muốn nhóm phản biện:
+- Card số: 2   
+- Vì sao: Giải quyết khó chịu đi bus
+- Câu hỏi muốn nhóm phản biện: Bạn có thể nhớ được đường đi xe bus không?
 
 ### AI đã phản biện card thế nào
 
 | Điểm yếu AI chỉ ra | Đồng ý? | Đã sửa gì |
 |---|---|---|
-| | | |
+|Bottleneck ngồi xe bus| Đồng ý | Làm rõ thời gian hay là khó chịu khi đi buýt |
 
 ---
 
@@ -133,15 +133,15 @@ Quy trình nháp hiện tại:
 
 | Hoạt động | Tôi đã làm gì? | Kết quả / ảnh hưởng tới bài nhóm |
 |---|---|---|
-| Pitch Problem Card | | |
-| Phản biện bài của bạn khác | Câu hỏi tôi đã đặt: | |
-| Nhận phản biện | Câu hỏi tôi nhận được: | Tôi đã sửa gì: |
+| Pitch Problem Card | Làm rõ vấn đề trước khi pitch| |
+| Phản biện bài của bạn khác | Câu hỏi tôi đã đặt: Không có| |
+| Nhận phản biện | Câu hỏi tôi nhận được: Không| Tôi đã sửa gì: chỉ sửa phần làm rõ cá nhân|
 | Gom cluster / cây OST | | |
 | Chọn candidate problem | | |
 | Kiểm chứng / research | | |
 | Quy trình nhóm | | |
 | Problem Statement | | |
-| Mức can thiệp AI | | |
+| Mức can thiệp AI | Hỏi AI về group report | 80% |
 | Quyết định | | |
 
 ---
@@ -152,7 +152,7 @@ Quy trình nháp hiện tại:
 |---|---|---|---|---|
 | CP1 Scan | | | | |
 | CP2 Problem Card | Tôi dùng AI để xác mình Problem Card | AI hữu ích ở đề xuất | AI không sai hay hời hợt | Tôi sửa được kế hoạch sắp xếp thời gian bằng nhận định |
-| CP4 Research | | | | |
+| CP4 Research | Tôi dùng AI để phân tích các vấn đề của từng thành viên | AI hữu ích ở thông tin | AI không có hời hợt | Tôi |
 | CP5 Quy trình | | | | |
 | CP5–6 Problem Statement | | | | |
 | CP6 Mức can thiệp / quyết định | | | | |
@@ -163,19 +163,21 @@ Quy trình nháp hiện tại:
 
 Trả lời bằng trải nghiệm thật của bạn, tối thiểu 200 từ cho các câu 6.1–6.6 (không tính 6.7, câu này được chấm riêng ở tiêu chí C5). **Không dùng AI để viết thay.**
 
-**6.1. Tôi học được gì khi nghe top 3 problems của các bạn khác?**
+**6.1. Tôi học được gì khi nghe top 3 problems của các bạn khác?** Tôi đã học được cách thu thập giải quyết vấn đề, cách đưa ra những lựa chọn tốt nhất để giải quyết triệt để
 
-**6.2. Nhóm có lúc nào bị "solution-first" (nghĩ giải pháp trước khi hiểu vấn đề) không? Lúc đó nhóm nhận ra và xử lý thế nào?**
+**6.2. Nhóm có lúc nào bị "solution-first" (nghĩ giải pháp trước khi hiểu vấn đề) không? Lúc đó nhóm nhận ra và xử lý thế nào?** Nhóm có lúc bị solution-first ở chỗ mình chưa cài Git Bash là tích hợp VSCode với GitHub
 
-**6.3. Tôi có đổi ý sau khi bị phản biện không? Kể một lần cụ thể.**
+**6.3. Tôi có đổi ý sau khi bị phản biện không? Kể một lần cụ thể.** Tôi chưa đổi ý sau khi bị phản biện
 
-**6.4. Kết quả kiểm chứng (phỏng vấn/survey/research) có làm tôi bất ngờ không? Điều gì?**
+**6.4. Kết quả kiểm chứng (phỏng vấn/survey/research) có làm tôi bất ngờ không? Điều gì?** Kết quả kiểm chứng research có làm tôi bất ngờ ở những thông tin data của từng thành viên và xử lý bởi AI
 
-**6.5. Điều khó nhất khi viết Problem Statement là gì?**
+**6.5. Điều khó nhất khi viết Problem Statement là gì?** Điều khó nhất khi viết Problem Statement là phải rõ ràng, phải rành mạch, phải diễn ra thường xuyên mà làm mình khó chịu
 
-**6.6. Nếu làm lại, tôi sẽ đổi gì? Tôi sẽ phản biện nhóm mạnh hơn ở điểm nào?**
+**6.6. Nếu làm lại, tôi sẽ đổi gì? Tôi sẽ phản biện nhóm mạnh hơn ở điểm nào?** Mình sẽ đổi dữ liệu sao cho phù hợp với vấn đề chung của nhóm chứ thay vì cá nhân, sẽ mạnh hơn ở cách xây dựng, cách xử lý giải pháp phức tạp
 
 **6.7. Hiểu bài:** giải thích bằng 5–8 câu, không nhìn tài liệu, chuỗi *problem → quy trình → metric → boundary → mức can thiệp AI → quyết định* của bài nhóm mình.
+
+Các problem:
 
 ---
 

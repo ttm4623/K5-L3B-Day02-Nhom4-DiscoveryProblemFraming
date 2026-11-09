@@ -102,9 +102,9 @@ Interview snapshot (chưa có phỏng vấn được ghi nhận):
 
 | Trường | Nội dung |
 |---|---|
-| Người được hỏi (vai trò, không ghi tên thật) | Chưa có dữ liệu |
-| Câu nói đáng nhớ nhất (nguyên văn) | Chưa có dữ liệu |
-| Lần gần nhất gặp vấn đề này: chuyện gì đã xảy ra? | Chưa có dữ liệu |
+| Người được hỏi (vai trò, không ghi tên thật) | Nhóm trưởng |
+| Câu nói đáng nhớ nhất (nguyên văn) | Gặp khó khăn trong nộp bài |
+| Lần gần nhất gặp vấn đề này: chuyện gì đã xảy ra? | Nộp thiếu file, quên nhập thông tin |
 | Hiện đang xử lý bằng cách nào (workaround)? | Theo báo cáo cá nhân: mở README, CHECKPOINTS, RUBRIC, SUBMISSION rồi đối chiếu thủ công; đây là trải nghiệm của một người, chưa xác minh với người khác. |
 | Mất bao lâu, bao lần? | Báo cáo cá nhân ghi đối chiếu 20 phút/lần, 5 lần/tuần và từng bị nhắc một lỗi hình thức; chưa có log/bằng chứng nhóm. |
 | Insight / opportunity rút ra | Cần xác minh yêu cầu có thực sự khó tìm và lỗi hình thức có lặp lại ở các học viên khác không. |
@@ -117,7 +117,7 @@ Tổng hợp:
 | Ba báo cáo cá nhân còn lại | 3 người, không có dữ liệu checklist cùng candidate | Bối cảnh chung là bài tập/lab, có thể thuận tiện tuyển pilot trong lớp | Không xác nhận họ gặp cùng bottleneck hoặc muốn dùng checklist |
 | Phỏng vấn/survey/log cho candidate này | 0 mẫu được ghi nhận | Chưa có | Chưa có dữ liệu để kết luận prevalence hoặc hiệu quả |
 
-**Nhóm đã sửa problem thế nào sau kiểm chứng:** Chưa có kiểm chứng, nên chưa thể ghi nhận thay đổi do bằng chứng. Trong bản đề xuất, thu hẹp phạm vi từ “kiểm tra bài” nói chung xuống kiểm tra hình thức (tên file, heading bắt buộc, link/đường dẫn); không tuyên bố đánh giá nội dung là đã giải quyết.
+**Nhóm đã sửa problem thế nào sau kiểm chứng:** Nhóm chưa phỏng vấn, khảo sát hoặc thử nghiệm nên chưa có cơ sở kết luận problem đã được xác nhận hay cần sửa. Qua rà soát card, nhóm đề xuất giới hạn phạm vi ở việc kiểm tra hình thức (tên file, heading bắt buộc, link/đường dẫn), không bao gồm đánh giá nội dung. Đây là giả thuyết cần kiểm chứng với học viên trước khi chốt.
 
 ### 3.3. Research giải pháp đã có
 
