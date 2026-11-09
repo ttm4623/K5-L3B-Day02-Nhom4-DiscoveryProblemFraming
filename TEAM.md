@@ -12,10 +12,10 @@
 
 | STT | Họ và tên | MSSV | Vai trò trong nhóm | Tài khoản GitHub |
 |---:|---|---|---|---|
-| 1 | | | | |
-| 2 | | | | |
-| 3 | | | | |
-| 4 | | | | |
+| 1 | Triệu Tuấn Minh | 2A202604123 | Leader | ttm4623 |
+| 2 | Nguyễn Văn Minh | 2A202604117 | Member | vm140205 |
+| 3 | Phạm Ngọc Long | 2A202604111 | Member | longpham2k2 |
+| 4 | Nguyễn Công Huy | 2A202604086 | Member | HyperSyst |
 
 Không ghi email hay số điện thoại vào bảng này, vì repo có thể để public.
 
