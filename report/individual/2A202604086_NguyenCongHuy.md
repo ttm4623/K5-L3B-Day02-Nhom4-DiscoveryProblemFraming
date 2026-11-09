@@ -184,6 +184,7 @@ Nếu được thực hiện lại, tôi sẽ chủ động chuẩn bị nhiều
 **6.7. Hiểu bài:** giải thích bằng 5–8 câu, không nhìn tài liệu, chuỗi *problem → quy trình → metric → boundary → mức can thiệp AI → quyết định* của bài nhóm mình.
 
 Theo tôi, đầu tiên cần xác định Problem để biết nhóm đang muốn giải quyết vấn đề gì. Tiếp theo, phân tích quy trình hiện tại để tìm ra bottleneck gây khó khăn cho người dùng. Từ đó, nhóm xây dựng Metric để đo lường hiệu quả trước và sau khi giải quyết vấn đề. Boundary giúp xác định phạm vi và giới hạn của vấn đề cần giải quyết. Sau đó, nhóm xác định mức độ can thiệp của AI, công đoạn nào AI hỗ trợ và công đoạn nào cần con người kiểm soát. Cuối cùng, dựa trên kết quả nghiên cứu, kiểm chứng và thảo luận, nhóm đưa ra quyết định về Problem Statement và hướng giải quyết phù hợp.
+
 ---
 
 ## 7. Tài liệu tham khảo
