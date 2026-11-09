@@ -70,7 +70,7 @@ Mỗi thành viên thêm một mục theo mẫu dưới đây, tiêu đề là `
 
 **Bằng chứng** (phần nào trong `group_report.md`, file nào trong `report/assets/`, commit nào):
 
-- `report/individual/2A202604111_PhamNgocLong.md` mục 3 (Problem Card #2); `group_report.md` mục 2.1, 2.4, 3.2, 4.1, 8.1. Commit: (bổ sung sau khi commit)
+- `report/individual/2A202604111_PhamNgocLong.md` mục 3 (Problem Card #2); `group_report.md` mục 2.1, 2.4, 3.2, 4.1, 8.1. Commit: `5d72cc7`
 
 **Điều mình học được từ phần nhóm:**
 
